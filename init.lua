@@ -1,7 +1,7 @@
 local module = {}
 
 function module.test()
-    print("Entry test")
+    print("Init test")
 end
 
 return module
