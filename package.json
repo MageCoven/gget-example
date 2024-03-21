@@ -1,4 +1,5 @@
 {
+    "packageType": "library",
     "files": [
         "example.lua"
     ]
