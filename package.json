@@ -1,5 +1,6 @@
 {
     "type": "library",
+    "version": "0.5.0",
     "files": [
         "example.lua"
     ]
