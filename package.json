@@ -1,7 +1,9 @@
 {
     "type": "library",
-    "version": "0.6.1",
+    "version": "0.7.0",
+    "entry": "entry.lua",
     "files": [
-        "example.lua"
+        "example.lua",
+        "entry.lua"
     ]
 }
